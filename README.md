@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @quentinhaenn, I'm currently finishing my engineering and datascience course and I will be an AI PhD student next year !
+- 👋 Hi, I’m @quentinhaenn, I'm currently PhD student at Lias Lab (France)!
 - 👀 I’m interested in datascience and AI but more widely in any code project that can make people's life easier and smarter, espacially those focusing on ecology and enerfy savings
 - 🌱 I’m currently learning to masterise Python, Scikit-Learn and PyTorch for AI, but also learning JavaScript and TypeScript and C++.
 - You can reach me at :
