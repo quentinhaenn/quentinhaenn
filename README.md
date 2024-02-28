@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @quentinhaenn, I'm currently PhD student at Lias Lab (France)!
 - 👀 I’m interested in datascience and AI but more widely in any code project that can make people's life easier and smarter, espacially those focusing on ecology and enerfy savings
-- 🌱 I’m currently learning to masterise Python, Scikit-Learn and PyTorch for AI, but also learning JavaScript and TypeScript and C++.
+- 🌱 I’m currently learning to masterise Python, Scikit-Learn and PyTorch for AI.
 - You can reach me at :
   - 📫 quentin.haenn.pro@gmail.com
   - on Tweeter ![Twitter URL](https://img.shields.io/twitter/follow/QHaenn?style=social)
